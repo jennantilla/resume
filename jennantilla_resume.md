@@ -1,6 +1,6 @@
 # Jenna Antilla
 #### Full-stack software engineer & web developer
-jennantilla@gmail.com | 808-313-0547 | [Portfolio][3] |[LinkedIn][2] | [GitHub][3]
+jennantilla@gmail.com | 808-313-0547 | [Portfolio][3] | [LinkedIn][2] | [GitHub][3]
 
 [1]: http://jennantilla.github.io/
 [2]: https://www.linkedin.com/in/jennantilla/
@@ -61,8 +61,8 @@ jennantilla@gmail.com | 808-313-0547 | [Portfolio][3] |[LinkedIn][2] | [GitHub][
 * Supervised a caseload of 25 clients with direct outreach, curriculum development, reporting, & record keeping/audits
 
 ## Education
-### Hackbright Academy | December 2019
-Software Engineering Fellowship
+### Hackbright Academy 
+Software Engineering Fellowship | December 2019
 
-### University of Hawaii, Hilo | May 2011
-BA, Anthropology - Highest Honors
+### University of Hawaii, Hilo
+BA, Anthropology - Highest Honors | May 2011
