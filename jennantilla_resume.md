@@ -32,7 +32,6 @@ jennantilla@gmail.com | 808-313-0547 | [Portfolio][1] | [LinkedIn][2] | [GitHub]
 
 ## Experience
 ### Freelance Web Developer | January 2020 - Present
-* Developed [app.othecary][4], a full-stack web app with PostgreSQL database, Python backend, & JavaScript front-end (AJAX, jQuery, Chart.js). Utilizes NIH database/API to research nutritional supplements & create customized routines.
 * Developed [GRAPES Journal][5], a daily mindset journal with PostgreSQL database, Python backend, JavaScript front-end
 * Developed [Stockit][6], an inventory categorization and tracking app implemented with Ruby on Rails framework
 * Developed, deployed, and maintain [stitchofwisdom.com][7], a needlework hobbyist site with original patterns available for download.
@@ -67,6 +66,7 @@ jennantilla@gmail.com | 808-313-0547 | [Portfolio][1] | [LinkedIn][2] | [GitHub]
 ## Education
 ### Hackbright Academy 
 Software Engineering Fellowship | December 2019
+* Developed [app.othecary][4], a full-stack web app with PostgreSQL database, Python backend, & JavaScript front-end (AJAX, jQuery, Chart.js). Utilizes NIH database/API to research nutritional supplements & create customized routines.
 
 ### University of Hawaii, Hilo
 BA, Anthropology - Highest Honors | May 2011
