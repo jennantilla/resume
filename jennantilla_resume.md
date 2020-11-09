@@ -1,6 +1,6 @@
 # Jenna Antilla
 #### Full-stack software engineer & web developer
-jennantilla@gmail.com | 808-313-0547 | [Portfolio][3] | [LinkedIn][2] | [GitHub][3]
+jennantilla@gmail.com | 808-313-0547 | [Portfolio][1] | [LinkedIn][2] | [GitHub][3]
 
 [1]: http://jennantilla.github.io/
 [2]: https://www.linkedin.com/in/jennantilla/
@@ -11,6 +11,7 @@ jennantilla@gmail.com | 808-313-0547 | [Portfolio][3] | [LinkedIn][2] | [GitHub]
 #### Languages
 * Python
 * Javascript (AJAX, JSON)
+* Ruby
 * HTML
 * CSS
 * SQL
@@ -18,6 +19,7 @@ jennantilla@gmail.com | 808-313-0547 | [Portfolio][3] | [LinkedIn][2] | [GitHub]
 #### Frameworks & Libraries
 * jQuery
 * React
+* Ruby on Rails
 * Flask
 * Bootstrap
 * Jinja
@@ -28,17 +30,19 @@ jennantilla@gmail.com | 808-313-0547 | [Portfolio][3] | [LinkedIn][2] | [GitHub]
 * GitHub
 * Command Line
 
-## Projects
-* [app.othecary][4] - Full-stack web app for nutritional supplement research & customized routine creation
-* [GRAPES Journal][5] - Full-stack web app for daily mindset journaling and mood tracking
-* [Prepr][6] -Full-stack web app for emergency preparedness and important information organization
+## Experience
+### Freelance Web Developer | January 2020 - Present
+* Developed [app.othecary][4], a full-stack web app with PostgreSQL database, Python backend, & JavaScript front-end (AJAX, jQuery, Chart.js). Utilizes NIH database/API to research nutritional supplements & create customized routines.
+* Developed [GRAPES Journal][5], a daily mindset journal with PostgreSQL database, Python backend, JavaScript front-end
+* Developed [Stockit][6], an inventory categorization and tracking app implemented with Ruby on Rails framework
+* Developed, deployed, and maintain [stitchofwisdom.com][7], a needlework hobbyist site with original patterns available for download.
 
 [4]: https://github.com/jennantilla/app.othecary
 [5]: https://github.com/jennantilla/grapes-journal
-[6]: https://github.com/jennantilla/prepper
+[6]: https://github.com/jennantilla/stockit
+[7]: http://www.stitchofwisdom.com/
 
 
-## Work Experience
 ### Asana, Inc.
 #### Event Coordinator | August 2016 - November 2019
 * Grew internal events into a company-recognized program by defining policy, process, quarterly goals, success framework and strategic roadmapping
